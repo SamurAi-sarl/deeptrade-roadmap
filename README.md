@@ -1,4 +1,4 @@
-# Product Roadmap
+# DeepTrade Roadmap
 
 This roadmap contains all the tweaks, improvements and new features we plan for DeepTrade. Of course, things change and we may shuffle priorities at any time. At SamurAI/DeepTrade we learn A TON from talking to users, so don't hesitate to contact us with your ideas and feedback.
 
